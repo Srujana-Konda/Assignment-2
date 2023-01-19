@@ -1,4 +1,5 @@
 Neural network assignment-2
+
 Program 1.1: Concat first name and last name to print full name.
 Program 1.2: Just print alternate chars from the full name.
 
