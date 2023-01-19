@@ -1,5 +1,4 @@
-'''
-#Program 1.1: Concat first and last name
+#Program 1: Concat first and last name and print alternative char in string
 
 def full_name(fname, lname):
     return First_name + ' ' + Last_name
@@ -21,7 +20,6 @@ print("Final op:", full_name)
 op_string1 = string_alternative(full_name)
 print("Alternate string:" , op_string1)
 
-'''
 
 #Prog 3: Word count from input file
 ip_file = open("C:/Users/sruja/OneDrive/Desktop/Neural Network/Neural-git/Assignments/ipfile.txt", "r")
